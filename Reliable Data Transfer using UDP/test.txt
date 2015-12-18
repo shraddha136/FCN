@@ -1,0 +1,63 @@
+CSCI 651 Project #2 Document v0.1 (M.Hosking) 1
+CSCI65103 Project #2
+Many thanks to Dr. Kwon for permitting this project to be used and providing the original requirements.
+Developing a Reliable Data Transfer Protocol
+1. Introduction
+The IP protocol enables addressing, packet routing and forwarding in the network as a best-effort
+service, which does not guarantee the arrival of a packet at the destination. In other words, packets may
+get lost, delayed, out of order, and corrupted. TCP provides reliable data transfer to ensure packet
+delivery as an end-to-end service. In this project, you will use UDP datagrams to send and receive data
+(with the possibility of packet loss or corruption) and develop your own TCP-like protocol to provide
+reliable data transfer. You can use Java, C, or C++.
+2. Reliable Data Transfer
+TCP does not attempt to correct the bits of corrupted packets at the receiver, but retransmits those
+packets when the sender detects that something goes wrong with those packets. The TCP sender infers
+those errors based on acknowledgments from the receiver and timeout (TO). To cope with packet loss
+and delay, you need to implement a mechanism that uses acknowledgments, retransmission, and TO like
+TCP. As noted, the sender transmits packets to the receiver via UDP. You also need to implement a data
+integrity checking mechanism using something similar to the TCP checksum. In addition, each TCP
+packet must have a sequence number that can be used to reorder packets at the receiver. Define the
+header format of your own TCP protocol, and include this header to each datagram generated from
+UDP.
+3. Congestion Control
+Your TCP will support a congestion control mechanism that works like TCP-Tahoe. Specifically, the
+mechanism has two phases: 1) slow start and 2) congestion avoidance, and uses sliding window-based
+control. This means that the sender can send a window of data at each RTT starting from one packet,
+and increase or decrease in response to network congestion conditions. The sender also implements fast
+retransmission for faster response to suspected packet losses  duplicate acknowledgements.
+Of course, there should be TO as well, so that the sender can respond in the case where there are not
+enought packets in transit to trigger fast retransmission. The sender should not send more than what the
+receiver can handle at a time (flow control).
+CSCI 651 Project #2 Document v0.1 (M.Hosking) 2
+4. Test and Output
+For testing, the sender sends a reasonable-sized file to the receiver. The sender reads the file first and
+then each iteration (RTT) the sender sends what is allowed by the congestion window. The receiver
+receives what is sent, processes it, stores the data, and then replies. The stored file at the receiver must
+be identical to the one sent by the sender as verified by comparing an MD5 or SHA1 hash of the original
+and received file. Set TO using command line option with a default value of one second if not specified.
+For output, display the sending rate when the sender sends packets, the sequence numbers, any actions
+for retransmission, TO, receipt of acknowledgments, and congestion control status. At the receiver side,
+display issuing acknowledgments, checksum pass or fail, and packet reordering. The client should
+calculate and output the hash of the file before sending; the server should calculate and output the hash
+of the file when receiving is complete.
+System Requirements:
+Application will be written using Java, C, or C++ programming language. The application should run on
+Ubuntu 14.04.3 LTS.
+User Interface Requirements:
+fcntcp -{c,s} [options] [server address] port
+Command line options:
+-c, --client: run as client
+-s, --server: run as server
+-f <file>, --file: specify file for client to send. client applications
+-t <#>, --timeout: timeout in milliseconds for retransmit timer.
+ Default to 1000 mS (1 second) if not specified. client applications
+-q, --quiet: do not output detailed diagnostics. client & server applications
+server address: address of server to connect to. client applications.
+port: primary connection port client & server applications
+CSCI 651 Project #2 Document v0.1 (M.Hosking) 3
+5. Submission
+When you complete, turn your program in as follows:
+1. Be sure that everything is compiled and run correctly.
+2. Put all the source files, header files, and Makefile (if there is any) into a single archive.
+myCourses will expect a single file for final submission. myCourses will only save the last
+submission.
