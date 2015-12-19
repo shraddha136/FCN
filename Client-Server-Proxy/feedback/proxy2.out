@@ -1,0 +1,1392 @@
+Use Case 5
+--------------------------------------------------------
+tsapp -p 129.21.30.37 -u --proxy-udp 7000 8000 8001
+Proxy
+Starting proxy tcp at 8001
+Starting proxy udp at 8000
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from tcp client is modify99:useridusr:passwordpw
+Message sent to the udp server : modify99:useridusr:passwordpw
+Message received from the udp server : Data set to: 99
+The round trip time (Proxy-Server-Proxy) is: 2ms
+Message sent to the client : Data set to: 99
+
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00

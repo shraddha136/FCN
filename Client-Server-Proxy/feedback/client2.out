@@ -1,0 +1,110 @@
+Use Case 5
+--------------------------------------------------------
+tsapp -c 129.21.37.16 -T 99 --user usr --pass pw -t 8001
+Client
+Message sent to the server : modify99:useridusr:passwordpw
+
+Message received from the server : Data set to: 99
+The round trip time (Client-Server/Proxy) is: 1ms
+tsapp -c 129.21.37.16 -n 25 -u 8000
+Client
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 3ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 3ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 2ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 2ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 2ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 2ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 2ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 4ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 3ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 2ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 2ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms
+CAL
+Message sent to the udp server : CAL
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Client-Proxy/Server) is: 1ms

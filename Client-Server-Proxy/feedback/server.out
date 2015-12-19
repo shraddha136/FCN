@@ -1,0 +1,1229 @@
+Use Case 1
+--------------------------------------------------------
+tsapp -s -T 5 6000 6001
+Server
+Starting servers
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+Use Case 2-5
+--------------------------------------------------------
+tsapp -s -T 5 --user usr --pass pw 6000 6001
+Server
+Starting servers
+Message received from client is modify99:useridusr:passwordpw
+29
+99
+usr
+pw
+usr and pw
+usr and pw
+Message sent to the client : Data set to: 99
+
+CAL
+Message received from udp client is CAL
+data to be converted from 99 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+Use Case 2-5
+--------------------------------------------------------
+tsapp -s -T 5 --user usr --pass pw 6000 6001
+Server
+Starting servers
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+CAL
+Message received from udp client is CAL
+data to be converted from 5 to cal 
+Message sent to udp client is 31/12/1969 19:00:00
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is UTC
+Message sent to the client is 5
+
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 5 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is modify99:useridusr:passwordpw
+29
+99
+usr
+pw
+usr and pw
+usr and pw
+Message sent to the client : Data set to: 99
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+
+Message received from client is CAL
+data to be converted from 99 to cal 
+Message sent to the client is 31/12/1969 19:00:00
+

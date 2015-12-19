@@ -1,0 +1,1798 @@
+Use Case 3
+--------------------------------------------------------
+tsapp -p 129.21.22.196 --proxy-udp 6000 --proxy-tcp 6001 7000 7001
+Proxy
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the udp server : CAL
+Message received from the udp server : 31/12/1969 19:00:00
+Message sent to the udp client : 31/12/1969 19:00:00
+Message sent to the client : 31/12/1969 19:00:00
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Message received from client is CAL
+Message sent to the server : CAL
+
+Message received from server is 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the client : CAL
+
+Use Case 4-5
+--------------------------------------------------------
+tsapp -p 129.21.22.196 -t --proxy-tcp 6001 7000 7001
+Proxy
+Starting proxy tcp at 7001
+Starting proxy udp at 7000
+Message received from udp client is UTC
+Message sent to the server : UTC
+
+Message received from the server : 5
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 5
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 14ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is modify99:useridusr:passwordpw
+Message sent to the server : modify99:useridusr:passwordpw
+
+Message received from the server : Data set to: 99
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : Data set to: 99
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 1ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
+Message received from udp client is CAL
+Message sent to the server : CAL
+
+Message received from the server : 31/12/1969 19:00:00
+The round trip time (Proxy-Server-Proxy) is: 0ms
+Message sent to the udp client : 31/12/1969 19:00:00
